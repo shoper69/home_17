@@ -1,13 +1,18 @@
-﻿<Properties StartupConfiguration="{3BECE895-00D0-4F99-9665-7FBF4822BA5B}|Default">
+﻿<Properties StartupConfiguration="{03C92173-2FC4-4D1A-B753-7F2D03D9265B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.home__17 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="home_17/Program.cs">
     <Files>
-      <File FileName="home_17/Program.cs" Line="12" Column="18" />
+      <File FileName="home_17/Program.cs" Line="61" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="home_17" expanded="True">
-            <Node name="home_17" expanded="True" selected="True" />
+            <Node name="home_17" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -16,11 +21,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.home__17 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
